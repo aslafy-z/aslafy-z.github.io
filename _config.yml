@@ -18,12 +18,12 @@ defaults:
 topics:
   - name: Kubernetes
     web_url: https://github.com/topics/kubernetes
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/kubernetes/kubernetes.png
+    image_url: https://raw.githubusercontent.com/github/explore/e72db8b119f1994a0a9fff591acb4d257447ba85/topics/kubernetes/kubernetes.png
 
   - name: Deployment
     web_url: https://github.com/topics/deployment
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/deployment/deployment.png
+    image_url: https://raw.githubusercontent.com/github/explore/e72db8b119f1994a0a9fff591acb4d257447ba85/topics/deployment/deployment.png
 
   - name: Linux
     web_url: https://github.com/topics/linux
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
+    image_url: https://raw.githubusercontent.com/github/explore/e72db8b119f1994a0a9fff591acb4d257447ba85/topics/linux/linux.png
