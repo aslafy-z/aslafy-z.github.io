@@ -22,7 +22,7 @@ topics:
 
   - name: Deployment
     web_url: https://github.com/topics/deployment
-    image_url: https://raw.githubusercontent.com/github/explore/e72db8b119f1994a0a9fff591acb4d257447ba85/topics/deployment/deployment.png
+    image_url: https://github.githubassets.com/images/icons/emoji/unicode/1f680.png
 
   - name: Linux
     web_url: https://github.com/topics/linux
